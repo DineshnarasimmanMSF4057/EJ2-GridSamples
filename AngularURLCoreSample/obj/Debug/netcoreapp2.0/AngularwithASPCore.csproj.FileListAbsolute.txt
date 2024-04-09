@@ -1,0 +1,69 @@
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\appsettings.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\npm-shrinkwrap.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\package.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\tsconfig.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.deps.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.dev.json
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.dll
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.csprojAssemblyReference.cache
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfoInputs.cache
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfo.cs
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.csproj.CoreCompileInputs.cache
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.dll
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+D:\December\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.genruntimeconfig.cache
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.deps.json
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.json
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.dev.json
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.dll
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.csprojAssemblyReference.cache
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.csproj.CoreCompileInputs.cache
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfoInputs.cache
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfo.cs
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.dll
+C:\Users\ShaliniMaragathavel\Downloads\Urladaptor-angularwithcore329670784\Urladaptor-angularwithcore\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.deps.json
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.json
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.dev.json
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.dll
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\bin\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.csproj.CoreCompileInputs.cache
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfoInputs.cache
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfo.cs
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.dll
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+C:\Users\Syncfusion\Downloads\177978\Urladaptor-angularwithcore - 302117\obj\Debug\netcoreapp2.0\AngularwithASPCore.csprojAssemblyReference.cache
+C:\Users\Syncfusion\Downloads\177978 samp\bin\Debug\netcoreapp2.0\AngularwithASPCore.deps.json
+C:\Users\Syncfusion\Downloads\177978 samp\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.json
+C:\Users\Syncfusion\Downloads\177978 samp\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.dev.json
+C:\Users\Syncfusion\Downloads\177978 samp\bin\Debug\netcoreapp2.0\AngularwithASPCore.dll
+C:\Users\Syncfusion\Downloads\177978 samp\bin\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+C:\Users\Syncfusion\Downloads\177978 samp\obj\Debug\netcoreapp2.0\AngularwithASPCore.csprojAssemblyReference.cache
+C:\Users\Syncfusion\Downloads\177978 samp\obj\Debug\netcoreapp2.0\AngularwithASPCore.csproj.CoreCompileInputs.cache
+C:\Users\Syncfusion\Downloads\177978 samp\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfoInputs.cache
+C:\Users\Syncfusion\Downloads\177978 samp\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfo.cs
+C:\Users\Syncfusion\Downloads\177978 samp\obj\Debug\netcoreapp2.0\AngularwithASPCore.dll
+C:\Users\Syncfusion\Downloads\177978 samp\obj\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\npm-shrinkwrap.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\package.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\tsconfig.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\AngularwithASPCore.deps.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\AngularwithASPCore.runtimeconfig.dev.json
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\AngularwithASPCore.dll
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\bin\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.csproj.AssemblyReference.cache
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfoInputs.cache
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.AssemblyInfo.cs
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.csproj.CoreCompileInputs.cache
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.dll
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.pdb
+D:\Locals\NewAngularCore\AngularWithCoreSample\masterdetail\obj\Debug\netcoreapp2.0\AngularwithASPCore.genruntimeconfig.cache

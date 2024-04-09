@@ -1,2 +1,1 @@
-# EJ2-GridSamples
-Grid samples which are handled in the EJ2 grid support
+install the npm package using npm install in the VSCode and run the sample in visual studio

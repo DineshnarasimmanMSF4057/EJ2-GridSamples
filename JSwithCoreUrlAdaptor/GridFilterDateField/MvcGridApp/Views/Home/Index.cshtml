@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.syncfusion.com/ej2/24.1.44/material.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    @*<script src="https://cdn.syncfusion.com/ej2/22.2.12/dist/ej2.min.js"></script>*@
+    @*<script src="~/scripts/ej2unmin22.2.12.js"></script>*@
+    <script src="~/scripts/ej2unminified24.1.44.js"></script>
+    @*<script src="~/scripts/Grid.js"></script>*@
+
+</head>
+<body>
+    <div id="Grid"></div>
+
+    <script>
+        var data = new ej.data.DataManager({ url: "/Home/UrlDatasource", adaptor: new ej.data.UrlAdaptor() });
+
+        var grid = new ej.grids.Grid({
+            dataSource: data,
+            allowFiltering: true,
+            allowSorting: true,
+            filterSettings: { type: 'Excel' },
+            toolbar: ['Search'],
+            editSettings: { allowEditing: true, allowAdding: true, allowDeleting: true },
+            columns: [
+                { field: 'OrderID', headerText: 'Order ID', isPrimaryKey: true, textAlign: 'Right', width: 120,  },
+                { field: 'CustomerID', width: 140, headerText: 'CustomerID', type: 'string' },
+                { field: 'OrderDate', headerText: 'OrderDate', textAlign: 'Right', format: 'dd/MM/yyyy' , width: 120 },
+                { field: 'ShipCity', headerText: 'ShipCity', width: 140 }
+            ],
+            allowPaging: true
+        });
+
+        grid.appendTo('#Grid');
+    </script>
+    <ejs-scripts></ejs-scripts>
+</body>
+</html>
+
+

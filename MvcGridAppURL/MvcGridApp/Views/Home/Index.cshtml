@@ -1,0 +1,32 @@
+<div class="control-section">
+    @Html.EJS().Grid("DefaultFiltering").DataSource((IEnumerable<object>)ViewBag.dataSource).AllowFiltering().ContextMenuItems(new List<object>() { "AutoFit", "AutoFitAll" }).AllowResizing(true).AllowSelection().Columns(col =>
+{
+col.HeaderText("Action").Width("100").Template("#actionsTemplate").Add();
+   col.Field("CustomerID").HeaderText("Customer Name").Width("150").Add();
+   col.Field("ShipCountry").HeaderText("City").Width("150").Add();
+   col.Field("OrderID").HeaderText("Units In Stock").Width("150").TextAlign(Syncfusion.EJ2.Grids.TextAlign.Right).Add();
+   col.Field("Discontinued").HeaderText("Discontinued").Width("150").TextAlign(Syncfusion.EJ2.Grids.TextAlign.Center).Type("boolean").DisplayAsCheckBox(true).Add();
+}).AllowPaging().AllowSelection(true).AllowSorting(true).AllowFiltering(true).FilterSettings(filter => { filter.Type(Syncfusion.EJ2.Grids.FilterType.Menu); }).PageSettings(page => page.PageSize(250)).QueryCellInfo("dropdown").AutoFit(false).Render()
+</div>
+
+<script id="actionsTemplate" type="text/x-template">
+    <div id='actionsTemplate'><button>Clipboard</button></div>
+</script>
+<script>
+    function dropdown(args) {
+        let items = [
+            {
+                text: 'Cut',
+            },
+            {
+                text: 'Copy',
+            },
+            {
+                text: 'Paste',
+            },
+        ];
+        var ele = args.cell.querySelector('button');
+        var drop = new ej.splitbuttons.DropDownButton({ items: items });
+        drop.appendTo(ele);
+    }
+</script>

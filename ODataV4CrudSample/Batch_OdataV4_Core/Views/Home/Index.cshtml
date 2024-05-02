@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.syncfusion.com/ej2/24.1.44/material.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.syncfusion.com/ej2/24.1.44/dist/ej2.min.js"></script>
+    @*<script src="~/scripts/Grid.js"></script>*@
+
+</head>
+<body>
+    <div id="Grid"></div>
+
+    <script>
+        var grid = new ej.grids.Grid({
+            load: load,
+            toolbar: ['Search'],
+            editSettings: { allowEditing: true, allowAdding: true, allowDeleting: true },
+            columns: [
+                { field: 'Id', headerText: 'Order ID', isPrimaryKey: true, textAlign: 'Right', width: 120, type: 'string' },
+                { field: 'Author', width: 140, headerText: 'Author', type: 'string' },
+                { field: 'Title', headerText: 'Title', textAlign: 'Right', width: 120 },
+                { field: 'Price', headerText: 'Prices', width: 140 }
+            ],
+            allowPaging: true
+        });
+
+        grid.appendTo('#Grid');
+
+        function load() {
+            this.dataSource = new ej.data.DataManager({ url: "/odata/Books", adaptor: new ej.data.ODataV4Adaptor({ updateType: 'PUT' }) });     
+        }
+    </script>
+    <ejs-scripts></ejs-scripts>
+</body>
+</html>
+
+

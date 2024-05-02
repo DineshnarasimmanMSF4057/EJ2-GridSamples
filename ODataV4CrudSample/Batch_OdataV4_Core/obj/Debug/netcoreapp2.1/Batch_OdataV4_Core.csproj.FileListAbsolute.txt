@@ -1,0 +1,127 @@
+c:\users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csprojAssemblyReference.cache
+c:\users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CoreCompileInputs.cache
+c:\users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cache
+c:\users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cs
+c:\users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfoInputs.cache
+c:\users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfo.cs
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.deps.json
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.json
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.dev.json
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.dll
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.input.cache
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.output.cache
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorCoreGenerate.cache
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\View.g.cshtml.cs
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cache
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cs
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+C:\Users\pavithra.subramaniya\source\repos\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CopyComplete
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.deps.json
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.json
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.dev.json
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.dll
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csprojAssemblyReference.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CoreCompileInputs.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cs
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfoInputs.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfo.cs
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.input.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.output.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorCoreGenerate.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\View.g.cshtml.cs
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cache
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cs
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CopyComplete
+D:\incidents-downloads\JavaScript\incident-217181\Batch_OdataV4_Core\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.deps.json
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.json
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.dev.json
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.dll
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csprojAssemblyReference.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CoreCompileInputs.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfoInputs.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfo.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.input.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.output.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorCoreGenerate.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\View.g.cshtml.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cache
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cs
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+C:\Users\DhivyaRajendran\Downloads\ODataV4222274531\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CopyComplete
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\appsettings.json
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.deps.json
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.json
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.dev.json
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.dll
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csprojAssemblyReference.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfoInputs.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfo.cs
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cs
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.input.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.output.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorCoreGenerate.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\View.cshtml.g.cs
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cs
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.genruntimeconfig.cache
+F:\EJ2-Grid-Support\F157788\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CopyComplete
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.deps.json
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.json
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.runtimeconfig.dev.json
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.dll
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\bin\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csprojAssemblyReference.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CoreCompileInputs.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorAssemblyInfo.cs
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfoInputs.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.AssemblyInfo.cs
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.input.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.TagHelpers.output.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorCoreGenerate.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\View.g.cshtml.cs
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cache
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.RazorTargetAssemblyInfo.cs
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.Views.pdb
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.dll
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.pdb
+D:\Incident\Asp.Net Core\329875 Odatav4 CRUD\ODataV41346098372\ODataV4\Batch_OdataV4_Core\obj\Debug\netcoreapp2.1\Batch_OdataV4_Core.csproj.CopyComplete
